@@ -1,7 +1,9 @@
 {
   "name": "rollup-plugin-alert-removed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove the alert from the code",
+  "author": "fuqqnl <fuqqnl@163.com>",
+  "homepage": "https://github.com/fuqqnl/rollup-plugin-alert-removed#readme",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
@@ -25,7 +27,6 @@
     "alert-remove",
     "remove alert"
   ],
-  "author": "fuqqnl",
   "license": "MIT",
   "dependencies": {
     "@rollup/pluginutils": "^4.2.1",
